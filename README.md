@@ -1,7 +1,10 @@
 PlaneFighter
 ============
 
-A playable clone of 飞机大战 bundled with WeChat.
+[![Build Status](https://travis-ci.org/zerob13/PlaneFighter.png)](https://travis-ci.org/zerob13/PlaneFighter)
+
+
+playable clone of 飞机大战 bundled with WeChat.
 A good Demo for SurfaceView
 
 
