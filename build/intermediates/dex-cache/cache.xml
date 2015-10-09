@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/zerob13/Documents/MyWork/PlaneFighter/App/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/zerob13/Documents/MyWork/PlaneFighter/App/build/intermediates/pre-dexed/defaultFlavor/debug/classes-fcdbdf92e4fbd9b45f9329e397e66e494c6ba3a5.jar" />
+    </item>
+    <item
+        jar="/Users/zerob13/Documents/MyWork/PlaneFighter/App/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/zerob13/Documents/MyWork/PlaneFighter/App/build/intermediates/pre-dexed/defaultFlavor/debug/classes-07bb6dc5f1d436da652c9857f2b19af187ba1f67.jar" />
+    </item>
+    <item
+        jar="/usr/local/opt/android-sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/zerob13/Documents/MyWork/PlaneFighter/App/build/intermediates/pre-dexed/defaultFlavor/debug/support-annotations-23.0.1-83cbd8867bbfafb64844edcdc4bcc0a8099d3359.jar" />
+    </item>
+    <item
+        jar="/Users/zerob13/Documents/MyWork/PlaneFighter/App/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/zerob13/Documents/MyWork/PlaneFighter/App/build/intermediates/pre-dexed/defaultFlavor/debug/internal_impl-23.0.1-4d270041dc6e2695860623aa782f9f2a58131e2c.jar" />
+    </item>
+
+</items>
